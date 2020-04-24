@@ -11,4 +11,3 @@ end
 list = []
 people.collect do |person|
   list << "#{person}"
-  
